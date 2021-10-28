@@ -1,0 +1,26 @@
+graph
+=> nrel_main_idtf: [граф] (* <- lang_ru;;*);
+=> nrel_main_idtf: [graph] (* <- lang_en;;*);;
+
+
+undirected_graph
+=> nrel_main_idtf: [неориентированный граф] (* <- lang_ru;;*);
+=> nrel_main_idtf: [undirected graph] (* <- lang_en;;*);;
+
+connected_graph
+=> nrel_main_idtf: [связный граф] (* <- lang_ru;;*);
+=> nrel_main_idtf: [connected graph] (* <- lang_en;;*);;
+
+cycle_graph
+=> nrel_main_idtf: [граф-цикл] (* <- lang_ru;;*);
+=> nrel_main_idtf: [cycle graph] (* <- lang_en;;*);;
+
+gamilton_cycle
+=> nrel_main_idtf: [гамильтонов цикл] (* <- lang_ru;;*);
+=> nrel_main_idtf: [gamilton cycle] (* <- lang_en;;*);;
+
+gamilton_graph
+=> nrel_main_idtf: [гамильтонов граф] (* <- lang_ru;;*);
+=> nrel_main_idtf: [gamilton graph] (* <- lang_en;;*);;
+
+
